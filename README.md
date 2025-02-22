@@ -8,7 +8,7 @@ The primary goal of the challenge is to implement an AI agent capable of travers
 
 ### Algorithms Utilized
 
-Participants are tasked with implementing and comparing the performance of various pathfinding algorithms, including:
+Building the algorithms and implementing, comparing the performance of various pathfinding algorithms, including:
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Dijkstra’s Algorithm
