@@ -13,6 +13,7 @@ Participants are tasked with implementing and comparing the performance of vario
 - Depth-First Search (DFS)
 - Dijkstra’s Algorithm
 - A (A-Star) Algorithm*
+
 Each algorithm’s effectiveness will be measured based on factors such as path cost, speed of traversal, and computational efficiency.
 
 ### Competition Context
@@ -22,6 +23,7 @@ The challenge involves 20+ competing AI agents developed by other students. AI a
 - Average traversal cost
 - Overall completion time
 - Perfect AI agent in giving **Optimized Route** in race.
+
 In addition to race outcomes, agents will be evaluated by the professor for an overall performance score, taking into account code quality, algorithm optimization, and strategic decision-making.
 
 ### Scoring & Ranking
